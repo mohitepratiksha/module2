@@ -1,5 +1,3 @@
-Process Management
-
 Maintain Efficient Process Utilization on Windows 
 
 Collect process information using the Task Viewer.
