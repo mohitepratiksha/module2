@@ -24,5 +24,5 @@ taskkill /pid [your pid]  /pid [your pid]
 
 ![Multiplekill](https://user-images.githubusercontent.com/78703624/119179045-18d91600-ba8c-11eb-855e-dbd155a5dce7.png)
 
-The task which is running gets terminated
+The task gets terminated
 
